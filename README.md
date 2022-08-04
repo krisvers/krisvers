@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krisvers
 - 👀 I’m interested in programming in C/C++ and x86-Assembly
-- 🌱 I’m currently learning C
+- 🌱 I’m currently working on a toy operating system
 - ✨ I use Gentoo and Manjaro GNU/Linux
 
 <!---
